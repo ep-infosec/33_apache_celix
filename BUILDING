@@ -1,0 +1,16 @@
+APACHE CELIX - BUILDING AND INSTALLATION OVERVIEW
+
+Notes
+-----
+
+* Currently Apache Celix only builds and works on Unix/Linux like systems
+  (including MacOSX).
+* Apache Celix requires CMake for building, other requirements/dependencies are 
+  listed in the building documentation (documents/building/README.md)
+* More information about the build system, and how to extend it, can be found at
+  the website: http://celix.apache.org/documentation.html
+	
+Building
+--------
+
+See documents/building/README.md for how-to build Apache Celix

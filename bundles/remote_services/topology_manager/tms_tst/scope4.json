@@ -1,0 +1,21 @@
+{
+"exportServices": [
+{
+"filter": "(objectClass=org.apache.celix.calc.api.Calculator)",
+"zone": "a_zone"
+},
+{
+"filter": "(objectClass=org.apache.celix.calc.*)",
+"zone": "inaetics"
+}
+],
+"importServices": [
+{
+"filter": "(key3=value3)"
+},
+{
+"filter": "(zone=a_zone)"
+}
+]
+}
+
